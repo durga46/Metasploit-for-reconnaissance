@@ -6,7 +6,9 @@ To get introduced to Metasploit Framework and to perform reconnaissance in pente
 
 ## DESIGN STEPS:
 1.Install kali linux either in partition or virtual box or in live mode
+
 2.Investigate on the various categories of tools as follows
+
 3.Open terminal and try execute some kali linux commands
 ## EXECUTION STEPS AND ITS OUTPUT:
 Find out the ip address of the attackers system
