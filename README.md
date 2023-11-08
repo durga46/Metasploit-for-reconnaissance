@@ -1,5 +1,8 @@
-# Metasploit-for-reconnaissance
-# Metasploit for reconnaissance in pentesting
+## EX.NO : 05
+## DATE : 21.9.2023
+# <p align="center"> Metasploit-for-reconnaissance</p>
+
+
 
 ## AIM:
 To get introduced to Metasploit Framework and to perform reconnaissance in pentesting .
